@@ -24,7 +24,7 @@ BLOX THEME/Visual Editoor/GRID
 **Add Custom CSS Class(es) to Row/columm**
 
 ```shell
-Opem Block Option/Confing/Add check to "Add Custom CSS Class(es) to Row/columm"
+Open Block Option/Confing/Add check to "Add Custom CSS Class(es) to Row/columm"
 Repeat to all Block and Save
 ```
 
